@@ -10,8 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "celebrate": "^12.1.2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "jest": "^26.2.1",
     "knex": "^0.20.13",
     "sqlite3": "4.1.1"
   },
