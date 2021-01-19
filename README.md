@@ -7,9 +7,9 @@
   <img src="./imgs_readme/be_the_hero1.png" alt="Página de cadastro">
   <img src="./imgs_readme/be_the_hero2.png" alt="Perfil da ONG com os casos cadastrados">
   <img src="./imgs_readme/be_the_hero3.png" alt="Página de cadastro de casos">
-  <img src="./imgs_readme/be_the_hero_mobile.png" alt="Imagem inicial do aplicativo mobile">
-  <img src="./imgs_readme/be_the_hero_mobile1.png" alt="Listagem de casos">
-  <img src="./imgs_readme/be_the_hero_mobile2.png" alt="Detalhes do caso">
+  <img width="300px" height="500px" src="./imgs_readme/be_the_hero_mobile.png" alt="Imagem inicial do aplicativo mobile">
+  <img width="300px" height="500px" src="./imgs_readme/be_the_hero_mobile1.png" alt="Listagem de casos">
+  <img width="300px" height="500px" src="./imgs_readme/be_the_hero_mobile2.png" alt="Detalhes do caso">
 </div>
 
 <h2>🚀 Tecnologias</h2>
